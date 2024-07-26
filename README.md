@@ -6,7 +6,7 @@
 2. **Navigate to Bō: Path of the Teal Lotus in your Steam library:**
    - Open Steam.
    - Find Bō: Path of the Teal Lotus in your library.
-   - Right-click on Bo and hover over **Manage**, click on the **Browse Local Files** tab.
+   - Right-click on Bo and hover over **Manage**, click on **Browse Local Files**.
 
 ![image](https://github.com/user-attachments/assets/373a8cf3-f455-4699-af72-57b0250b2dc0)
 
