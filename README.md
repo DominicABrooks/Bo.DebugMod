@@ -2,8 +2,7 @@
 ## How to get debug mode in Bō: Path of the Teal Lotus
 
 1. **Download the custom "level0" file:**
-   - Go to [this link](https://github.com/DominicABrooks/DebugMode_BoPathOfTeal/blob/main/level0).
-   - Download the "level0" file to your computer.
+   - [Download level0 file](https://raw.githubusercontent.com/DominicABrooks/DebugMode_BoPathOfTeal/main/level0)
 
 2. **Navigate to BoPathOfTeal in your Steam library:**
    - Open Steam.
@@ -23,4 +22,3 @@
 5. **Relaunch the game:**
    - Close the file explorer and return to Steam.
    - Launch Bō to see the changes.
-
