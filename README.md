@@ -3,9 +3,9 @@
 1. **Download the custom "level0" file:**
    - [Download level0 file](https://raw.githubusercontent.com/DominicABrooks/DebugMode_BoPathOfTeal/main/level0)
 
-2. **Navigate to BoPathOfTeal in your Steam library:**
+2. **Navigate to Bō: Path of the Teal Lotus in your Steam library:**
    - Open Steam.
-   - Find BoPathOfTeal in your library.
+   - Find Bō: Path of the Teal Lotus in your library.
    - Right-click on Bo and hover over **Manage**, click on the **Browse Local Files** tab.
 
 ![image](https://github.com/user-attachments/assets/373a8cf3-f455-4699-af72-57b0250b2dc0)
