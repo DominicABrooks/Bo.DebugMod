@@ -1,5 +1,4 @@
-# DebugMode_BoPathOfTeal
-## How to get debug mode in Bō: Path of the Teal Lotus
+# How to get debug mode in Bō: Path of the Teal Lotus
 
 1. **Download the custom "level0" file:**
    - [Download level0 file](https://raw.githubusercontent.com/DominicABrooks/DebugMode_BoPathOfTeal/main/level0)
